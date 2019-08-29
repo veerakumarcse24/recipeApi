@@ -1,1 +1,4 @@
-Om sakthi thunai
+/* Register api */
+URL: http://localhost:3000/api/register
+Method: POST
+Params: {"username":"Veera","password":"test123","phone_no":9095283825,"city":3,"location":5}
